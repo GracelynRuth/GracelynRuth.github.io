@@ -4,27 +4,27 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Gracelyn Ruth Arunachalam
+  role: Junior, Computer Engineering Major @ University of Maryland
+  image: /assets/images/me-headshot.jpg
+  linkedin: https://www.linkedin.com/in/gracelyn-rutha
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I'm currently a junior studying Computer Engineering at the University of Maryland, College Park. I expect to graduate in 2027
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    I wish to specialize in AI/ML in my junior and senior years. I am yet to pick specific courses tailored towards a specific field in the computer science/engineering domain. This summer I will be working my professor and gratuate mentor to use AI to monitor air pollution.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    Aside from academics, I enjoy crocheting and sewing. I also enjoy travelling.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🚶🏾‍♀️
+      title: Going for walks
+      description: I enjoy spending going for walks, I think of it as a great way of refreshing my mind.
+    - icon: 🧶
+      title: Crocheting
+      description: I've been crocheting since I was about 12 and have crocheted a couple medium sized projects.
+    - icon: ✈️
+      title: Travelling
+      description: I enjoy visiting new places by car, bus, train or plane!
 
   gallery:
     - image: /assets/images/me-guitar.png
