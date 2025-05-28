@@ -18,7 +18,7 @@ about:
   hobbies:
     - icon: 🚶🏾‍♀️
       title: Going for walks
-      description: I enjoy spending going for walks, I think of it as a great way of refreshing my mind.
+      description: I enjoy going for walks, I think of it as a great way of refreshing my mind.
     - icon: 🧶
       title: Crocheting
       description: I've been crocheting since I was about 12 and have crocheted a couple medium sized projects.
