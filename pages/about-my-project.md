@@ -3,34 +3,34 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Air Pollution Detection and AI Models
+project_title: "Monitoring Urban Air Pollution from Satellite Data using Machine Learning"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  In today's world, the increasing rate of air pollution directly correlates to health issues in many individuals. Air pollutants in the air, such as Aerosol, PM2.5 etc, linger in our atmosphere in great amounts leading to various respiratory issues amongst many people. 
+  In this project, we aim to explore the relationship between air pollutants and respiratory/health issues in many individuals. This project is focused on using satelite data to find correlations between various properties of air pollutants and human health, by training AI models to detect it.
 
 approach: |
   The project follows a four-phase pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
+  - Create a comprehensive database of Aerosol Optical Depths and PM2.5
+  - Preprocess datasets from satellite observations
+  - Use satellite derived AOD to derive PM2.5
+  - Produce geographical coverage of near-surface PM2.5 using AI/ML algorithms
+  - Enchance NASA's satellite observation of near-surface PM2.5 concentrations
 
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  The primary open source tool that will be used is Python (Libraries through Google Collab)
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  In this program we will learn of the machine learning techniques for satellite data retrieval related to air quality in the Baltimore-Washington area. We will learn of basic machine learning tools, such as random forest, and also methods of data collection, format and matching.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Temidayo Fapohunda
+  linkedin: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Xiaowen Li
+  linkedin: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
 ---
