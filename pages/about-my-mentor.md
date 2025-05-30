@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
+  name: Temidayo Fapohunda
   title: PhD Student, Bio-environmental Science
   image: /assets/images/graduate-student-mentor.jpg
   website: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
