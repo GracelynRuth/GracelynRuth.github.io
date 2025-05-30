@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Temidayo Fapohunda
   title: PhD Student, Bio-environmental Science
-  image: /assets/images/Dr. Li.jpg
+  image: /assets/images/GraduateMentor.jpg
   website: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
   bio: |
     Temidayo Fapohunda is a final year doctoral student in Bio-environmental Science at Morgan State University. He has expertise in environmental studies, air pollution and health-data management. He has also used various data measurement tools such as drones and is familiar with the NASA GIOVANNI used for long term trends of air pollution. He has also worked on similar projects during past CEAMLS summer programs.
