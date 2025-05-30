@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Temidayo Fapohunda
   title: PhD Student, Bio-environmental Science
-  image: /assets/images/graduate-student-mentor.jpg
+  image: /assets/images/Graduate Mentor.jpeg
   website: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
   bio: |
     Temidayo Fapohunda is a final year doctoral student in Bio-environmental Science at Morgan State University. He has expertise in environmental studies, air pollution and health-data management. He has also used various data measurement tools such as drones and is familiar with the NASA GIOVANNI used for long term trends of air pollution. He has also worked on similar projects during past CEAMLS summer programs.
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Xiaowen Li
   title: Director of the Climate Science Division, Climate Science at Morgan State University
-  image: /assets/images/faculty-mentor.jpg
+  image: /assets/images/Dr Li.jpg
   website: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
   bio: |
     Dr. Xiaowen currently serves as the Director of the Climate Science Division in the School of Computer, Mathematics & Natural Sciences. She earned her bachelor’s degree in Atmospheric Sciences from Peking University, followed by a PhD in Geophysical Sciences from the University of Chicago. Dr. Li subsequently joined NASA Goddard Space Flight Center in Greenbelt, MD as a postdoc, and eventually ascending to a Senior Research Scientist affiliated with Morgan State University. She joined Climate Science Division at Morgan in Fall 2022. 
