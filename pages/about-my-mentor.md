@@ -19,8 +19,6 @@ faculty_mentor:
   image: assets/images/Dr. Li.jpg
   website: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
   bio: |
-    Dr. Xiaowen currently serves as the Director of the Climate Science Division in the School of Computer, Mathematics & Natural Sciences. She earned her bachelor’s degree in Atmospheric Sciences from Peking University, followed by a PhD in Geophysical Sciences from the University of Chicago. Dr. Li subsequently joined NASA Goddard Space Flight Center in Greenbelt, MD as a postdoc, and eventually ascending to a Senior Research Scientist affiliated with Morgan State University. She joined Climate Science Division at Morgan in Fall 2022. 
-
-    Dr. Li’s research interests include satellite meteorology, precipitation physics and dynamics, aerosol-cloud-precipitation interactions, regional atmosphere modeling, and climate sciences. Her recent interests include machine learning applications in atmospheric sciences, including data segmentation, microphysics parameterization and satellite data retrievals.
+    Dr. Xiaowen is the Director of the Climate Science Division in the School of Computer, Mathematics & Natural Sciences at Morgan State Unviersity. Dr. Li was also a part of the NASA Goddard Space Flight Center in Greenbelt, MD as a postdoc. She is well versed in the field of Atmospheric Sciences and has done research and various publications in satellite meteorology, precipitation physics and dynamics, aerosol-cloud-precipitation interactions, regional atmosphere modeling, and climate sciences. She has also been a part of CEALMS by SAIRI for the past years and has worked on similar projects. She also mentioned that she has worked with python before, and that we all will be learning together as we progress through the project.
 
 ---
