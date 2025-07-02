@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Day 27 – Training Model on new Data and Discussing Results"
+date: 2025-07-02
+author: Gracelyn Ruth Arunachalam
+permalink: /day27.html
+tags: ["R2", "New Data", "Correlation", "Data"]
+
+what_i_learned: |
+  We were able to obtain new consistent data today. With our new 1 hour data, my peer and I worked on the data for the Padonia station. Once we had plotted the graphs we discovered that our predicted R^2 coefficient was much less than what we had before, it was close to 0.5. With this new coefficient I tried to drop some parameters to see if the coefficient would improve but it only improved by 0.05 increments each time. We then played a game of charades and simon says as our team building activity for the day. During this game just like taboo, it was pretty hard to communicate ideas with your team partners. However, at the end of the day, we were able to spend time as a team and relax from all the coding.
+  
+blockers: |
+  No blockers today!
+
+reflection: |
+  With the new data I was very confident that we would get better results, but it turned out too much data was hindering accurate predictions. When I tried dropping columns that had lower feature importances, the value increased by 0.05 and gave me the best R^2 at 0.55. The team building activity was great and I understood that I was not the best at describing basic thigs.
+---
